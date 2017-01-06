@@ -1,2 +1,0 @@
-# DataAnalysis
-HomeWork On Udacity
